@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZGJk0zPQdUKfeEED_G75EA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="en.aboutyou.de/c/women/clothing/occasions/traditional-fashion/shoes-accessories/shoes-140131" DesignTimeRectangle="11, 627, 1897, 5249" FullSelectorArgument="&lt;webctrl id='aboutyou_router__SCROLL_ANCHOR' tag='SECTION' /&gt;" Guid="be20a52c-b0ed-411d-bf27-3695c5568987" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Shoes (Leather) for women | Buy online | ABOUT YOU' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="34948161c7dffcf5c0b48ad32c827226.png" xmlns="">0volnqQD6KEi8wNyPVT3_bQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">InjectJsScript</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

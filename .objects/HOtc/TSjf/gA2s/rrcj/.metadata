@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Apple of Eden",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "rrcji6fVFkm4VWDnrSEy0w",
+  "Reference": "6AIuXkep-kexqZhsFVNLDw/rrcji6fVFkm4VWDnrSEy0w",
+  "ParentRef": "6AIuXkep-kexqZhsFVNLDw/gA2spHKRJUemeGu5iedpCA",
+  "Created": "2025-05-30T20:16:41.1123039Z",
+  "Updated": "2025-05-30T20:16:41.1123039Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Sw_Ea5UbP0qmN2BtGhlL-g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="en.aboutyou.de/your-shop" CVScreenId="1cb516a6-07ed-495f-99ad-c9ac949fbab1" CvElementArea="140, 348, 1703, 53" CvType="InputBox" DesignTimeRectangle="195, 362, 1630, 26" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="50ffd9c3-a124-4b07-82f6-3b09aed74a17" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online fashion from over 3000 top brands | ABOUT YOU' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="661c2c82c1d0ea03fff058d66e0babb8.png" xmlns="">0J7-k3GtcbkGdvRi6JdwwwQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

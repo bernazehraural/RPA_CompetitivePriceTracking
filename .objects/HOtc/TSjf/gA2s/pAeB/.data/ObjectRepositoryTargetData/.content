@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hCUHwPnuhkGD6OqDyY-7cA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="en.aboutyou.de/c/women/clothing/occasions/traditional-fashion/shoes-accessories/shoes-140131" DesignTimeRectangle="864, 733, 540, 477" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' parentid='dropdown-portal-host' tag='DIV' /&gt;" Guid="025f954d-5379-4f6a-bfe0-1d0761a3f13c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Shoes for women | Buy online | ABOUT YOU | ABOUT YOU' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="945b6a20914ba34ce8a44db940db37f3.png" xmlns="">02cHqi5wPIUKBW-NFVqOxaw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

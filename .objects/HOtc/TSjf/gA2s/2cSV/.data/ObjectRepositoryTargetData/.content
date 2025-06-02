@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GQNW8Gn_gUuwMdWp49WI8g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="en.aboutyou.de/your-shop" DesignTimeRectangle="146, 351, 1717, 54" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='' class='sbri7vv sr878mq o7gs73g syizrdx s1g5cenz' tag='DIV' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="277619b9-1da9-4efa-8221-675b8ba4f6d3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online fashion from over 3000 top brands | ABOUT YOU' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7bcc2fa2-92ac-4593-b526-d207750dedbf" CvElementArea="135, 349, 1726, 58" CvType="InputBox" DesignTimeRectangle="195, 365, 1630, 26" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="e41d1268-6df3-47ca-857b-6ae02fa63d9c" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a886d710a9d43bcf220425aa6b88050e.png" xmlns="">0P59EZa-zREeIoZi_hYT_kQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

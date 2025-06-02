@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="11yp1NBsFUyI-4m5pZ8Wyg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="en.aboutyou.de/your-shop" CVScreenId="ffdfa229-8e71-4872-907a-8903b32d9ef6" CvTextArea="192, 443, 225, 18" CvTextArgument="Women Shoes Ballerina" CvType="Text" DesignTimeRectangle="195, 437, 1630, 26" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="76d0c979-0b15-4987-950f-5396c4bef117" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online fashion from over 3000 top brands | ABOUT YOU' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="e8fb6406621eca3465aa117e209f2dbe.png" xmlns="">05AeglBDStUKV9QuO6XvMhg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardShortcut</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

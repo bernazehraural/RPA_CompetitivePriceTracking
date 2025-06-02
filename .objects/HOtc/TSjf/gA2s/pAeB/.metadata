@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Element 'Leather1021Faux leather…'",
+  "Type": "Element",
+  "Id": "pAeBBCtr-EuvrUuUvOvTxg",
+  "Reference": "6AIuXkep-kexqZhsFVNLDw/pAeBBCtr-EuvrUuUvOvTxg",
+  "ParentRef": "6AIuXkep-kexqZhsFVNLDw/gA2spHKRJUemeGu5iedpCA",
+  "Created": "2025-05-30T19:37:21.6968799Z",
+  "Updated": "2025-05-30T19:37:21.6968799Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

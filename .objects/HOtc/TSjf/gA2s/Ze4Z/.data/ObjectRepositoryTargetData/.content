@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_6YzqMxyeEGnECidHWIf6w" Reference="6AIuXkep-kexqZhsFVNLDw/Ze4Z1ZkbwUyMHB0CgSSLag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="en.aboutyou.de/your-shop" CVScreenId="d254fe08-be04-4c1c-b39c-279aab36c246" CvElementArea="1772, 361, 34, 32" CvType="Icon" DesignTimeRectangle="1776, 363, 27, 27" ElementType="Icon" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;main&amp;gt;header&amp;gt;div&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;svg' tag='svg' /&gt;" Guid="3c39d734-1875-4e51-8499-ce86f405f1e9" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAEcSURBVFhH7ZTRDYMwDEQzCqMwCpswCqMwCqOkekhXWcgJdinih5OsKkqad+eElPqgXvgjeuEhLctS53mu0zTtv4yvKAQHVEpxaxiGff4XdeHbttVxHL8gJV7XdU/N2JpgfUZduMBsDNATQOa1LqMmXK3GwJlsh+hGVE04G1GtxEdhIJvehXOe2RRI6aOGXbhanv2U9L/o7XfhusVZeLZj3eTRBJLgl5JzZmwSuelW2Y65cHtzo5dHhqmomivV+uino5ueOaom3D4cGGDsya7LpEbd1WwMWAY4U86TFpNQ3bEV7RQ6tYoBD2KL+WOnIgr3ic1JTXpKya2yBnKHFFDGwN/hKGrgFjiyBlqPzm1whIHeI3Ur/Ewv/AHV+gFxZ8O3B4FA7wAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online fashion from over 3000 top brands | ABOUT YOU' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="-2" Y="2" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="23ec4edb80e623b5be0d5df361b4e7b8.png" xmlns="">00MfQWFUJf0eacZyXfjsddw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

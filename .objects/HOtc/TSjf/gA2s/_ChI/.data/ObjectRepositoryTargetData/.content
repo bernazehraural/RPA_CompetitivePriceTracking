@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Uvcn9hiduEi9BdxdIAkEvQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="en.aboutyou.de/c/women/clothing/occasions/traditional-fashion/shoes-accessories/shoes-140131" DesignTimeRectangle="739, 638, 80, 36" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='aboutyou_router__SCROLL_ANCHOR' tag='SPAN' type='' class='sc-158c736c-0 eGjahs sc-cca74370-4 gyGvvh' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="dfc59387-995d-4adc-b017-e4cc4f4fbeb1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Shoes (Leather) for women | Buy online | ABOUT YOU | ABOUT YOU' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="52fe6217abe885f059213fb2e30302fe.png" xmlns="">06mS9BlKMlUa7_E23bfXxFw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

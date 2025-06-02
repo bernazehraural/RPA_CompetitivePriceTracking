@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6St_-OvWuEyAnalCSw8qrw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="en.aboutyou.de/c/women/clothing/occasions/traditional-fashion/shoes-accessories/shoes-140131" DesignTimeRectangle="900, 607, 30, 30" ElementType="CheckBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='checkbox' class='sc-d5141bd-4 dyQBSI' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="c62d0c2d-b036-467f-b908-d52ac5b57e07" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Shoes for women | Buy online | ABOUT YOU' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="953, 607, 80, 30" ElementType="Text" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl parentid='dropdown-portal-host' tag='SPAN' type='' class='tquhlzi' aaname='Leather' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='{0}' /&gt;&quot;, in_material)]" Guid="8ff8efe3-3ee8-44db-95ef-a563b680c0a4" ImageBase64="" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9dc87f7962651446c93182444c441a17.png" xmlns="">0_f3jGiqHyEezuIUclf9hvg</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="*" Name="in_material" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

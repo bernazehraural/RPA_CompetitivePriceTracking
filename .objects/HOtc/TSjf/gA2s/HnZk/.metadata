@@ -1,0 +1,13 @@
+﻿{
+  "Name": "All Deal ItemsClothingN…",
+  "Type": "Element",
+  "Id": "HnZkGPNMekyfpXE6TfZbKg",
+  "Reference": "6AIuXkep-kexqZhsFVNLDw/HnZkGPNMekyfpXE6TfZbKg",
+  "ParentRef": "6AIuXkep-kexqZhsFVNLDw/gA2spHKRJUemeGu5iedpCA",
+  "Created": "2025-05-30T20:10:49.6366394Z",
+  "Updated": "2025-05-30T20:10:49.6366394Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

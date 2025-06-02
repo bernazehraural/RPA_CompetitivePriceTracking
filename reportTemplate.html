@@ -1,0 +1,18 @@
+<html>
+<head><style>body{font-family:Arial}</style></head>
+<body>
+  <h2>Price Analysis Report</h2>
+
+  <h3>Average Current Prices by Brand</h3>
+  <ul>
+    {{brand_avg_prices}}
+  </ul>
+
+  <p><b>Brand with the highest average discount:</b> {{top_brand}} ({{top_discount}}%)</p>
+  <p><b>Overall average discount rate:</b> {{overall_discount}}%</p>
+  <p><b>Current Price Range:</b><br>
+     Minimum: {{min_price}}<br>
+     Maximum: {{max_price}}<br>
+     Average: {{avg_price}}</p>
+</body>
+</html>
